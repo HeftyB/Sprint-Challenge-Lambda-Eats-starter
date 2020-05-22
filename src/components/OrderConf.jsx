@@ -25,7 +25,7 @@ export default function OrderConf(props) {
                 </tr>
                 <tr>
                 <td>Your Order&nbsp;</td>
-                <td>&nbsp;{console.log(currentOrder.totalItems)}</td>
+                <td>&nbsp;Look In conolse{console.log(currentOrder.totalItems)}</td>
                 </tr>
                 </tbody>
                 </Table>

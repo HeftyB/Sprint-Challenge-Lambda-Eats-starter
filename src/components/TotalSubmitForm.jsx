@@ -33,7 +33,7 @@ export default function TotalSubmitForm(props) {
                 </label>
                 &nbsp;
                 <div className="total">
-                    Total: {`FUCK YES`}
+                    Total: {`$9.99`}
                 </div>
                 <br/>
                 <Button disabled={disabled} className="submitOder">Submit Order</Button>
