@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  /* border: 1px solid black; */
+  text-align: center;
+}
+
+ #root{
+  background-color: #fffa8a;
+}
+
+.App {
+  background-color: #fff;
+}
+
+#heroImg {
+  width: 80%;
+}
+
+.nav {
+  justify-content: center;
+}
+
+.wrapper .tab-content .active{
+  display: flex; 
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* justify-items: center; */
+}
+
+#specials {
+  font-size: 70%;
+}
