@@ -23,6 +23,7 @@ code {
 
 .App {
   background-color: #fff;
+  border-radius: 15px;
 }
 
 #heroImg {
